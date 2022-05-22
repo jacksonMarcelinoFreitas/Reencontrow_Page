@@ -4,6 +4,9 @@
 
 ##
 
+- 👀 Veja o site aqui: https://jacksonmarcelinofreitas.github.io/Reencontrow_Page/
+###### Obs: não responsivo para telas menores
+##
 - 👉🏻Layout inicial do youtube: https://www.youtube.com/watch?v=EA7rYIdF_9g
 - 👉🏻Adicionado as setas para as seções
 - 👉🏻Adicionada as animações nos botões e cards
